@@ -3,3 +3,5 @@
 *  感谢以上github仓库所有者！
 
 *  感谢kenzok8！
+
+*  src-git https://github.com/cyzzc/cyzzc-package
