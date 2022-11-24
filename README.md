@@ -1,7 +1,5 @@
-常用OpenWrt软件包源码合集，同步上游更新！
+*  自用仓库，请别Fork,如果需要请前往 https://github.com/kenzok8/small-package 自行Fork。
 
-通用版luci适合18.06与19.07
+*  感谢以上github仓库所有者！
 
-关于有好的插件请在issues提交
-
-感谢以上github仓库所有者！
+*  感谢kenzok8！
