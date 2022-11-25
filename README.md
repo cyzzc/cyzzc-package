@@ -7,6 +7,6 @@
 添加下面代码到feeds.conf.default文件
 
 ```bash
-src-git https://github.com/cyzzc/cyzzc-package
+src-git cyzzc https://github.com/cyzzc/cyzzc-package
 ```
 
