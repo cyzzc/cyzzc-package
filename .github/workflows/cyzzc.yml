@@ -5,6 +5,7 @@ on:
     paths:
       - '.github/workflows/cyzzc.yml'
       - 'diy/**'
+  workflow_dispatch:
   schedule:
     - cron: 0 1 * * 0
   watch:
