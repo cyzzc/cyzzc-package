@@ -17,6 +17,7 @@ function mvdir() {
 mv -n `find $1/* -maxdepth 0 -type d` ./
 rm -rf $1
 }
+git clone --depth 1 https://github.com/jerrykuku/lua-maxminddb.git
 git clone --depth 1 https://github.com/AlexZhuo/luci-app-bandwidthd.git
 git clone --depth 1 https://github.com/kiddin9/my-packages && mvdir my-packages
 git clone --depth 1 https://github.com/kiddin9/openwrt-bypass && mvdir openwrt-bypass
