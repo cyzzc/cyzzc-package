@@ -109,7 +109,7 @@ svn export https://github.com/coolsnowwolf/luci/trunk/libs/luci-lib-ipkg
 svn export https://github.com/kiddin9/openwrt-packages/trunk/luci-app-fileassistant
 svn export https://github.com/immortalwrt/luci/trunk/applications/luci-app-filebrowser
 svn export https://github.com/immortalwrt/luci/trunk/applications/luci-app-aliddns
-svn export https://github.com/immortalwrt/packages/tree/master/net/smartdns
+#svn export https://github.com/immortalwrt/packages/tree/master/net/smartdns
 svn export https://github.com/Tencent-Cloud-Plugins/tencentcloud-openwrt-plugin-ddns/trunk/tencentcloud_ddns luci-app-tencentddns
 svn export https://github.com/Tencent-Cloud-Plugins/tencentcloud-openwrt-plugin-cos/trunk/tencentcloud_cos luci-app-tencentcloud-cos
 svn export https://github.com/kiddin9/openwrt-packages/trunk/luci-app-adguardhome
