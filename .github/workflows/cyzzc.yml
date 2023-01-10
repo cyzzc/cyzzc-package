@@ -1,4 +1,4 @@
-name: Sync packages
+name: cyzzc packages
 
 on:
   push:
