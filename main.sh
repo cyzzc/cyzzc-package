@@ -138,7 +138,7 @@ svn export https://github.com/lisaac/luci-app-dockerman/trunk/applications/luci-
 svn export https://github.com/mingxiaoyu/luci-app-cloudflarespeedtest/trunk/applications/luci-app-cloudflarespeedtest
 svn export https://github.com/doushang/luci-app-shortcutmenu/trunk/luci-app-shortcutmenu
 svn export https://github.com/Ysurac/openmptcprouter-feeds/trunk/luci-app-iperf
-svn export https://github.com/sirpdboy/netspeedtest/trunk/luci-app-netspeedtest
+svn export https://github.com/sirpdboy/netspeedtest/tree/master/luci-app-netspeedtest
 svn export https://github.com/sbilly/netmaker-openwrt/trunk/netmaker
 svn export https://github.com/xiaorouji/openwrt-passwall2/trunk/luci-app-passwall2
 svn export https://github.com/openwrt/packages/trunk/net/shadowsocks-libev
