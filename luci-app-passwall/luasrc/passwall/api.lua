@@ -612,6 +612,9 @@ local function auto_get_arch()
 end
 
 function parseURL(url)
+	if not url or url == "" then
+		return nil
+	end
     local pattern = "^(%w+)://"
     local protocol = url:match(pattern)
 
