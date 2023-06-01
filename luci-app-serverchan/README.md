@@ -34,12 +34,12 @@
 
 #### PS
 
-- 提交bug时请尽量带上设备信息，日志与描述如执行 `/usr/share/serverchan/serverchan` 后的提示、日志信息、`/tmp/serverchan/` 目录下的文件信息，**并附上 `sh -x /usr/share/serverchan/serverchan t1` 的详细运行信息** ）
+- 提交bug时请尽量带上设备信息，日志与描述如执行 `/usr/share/wechatpush/wechatpush` 后的提示、日志信息、`/tmp/wechatpush/` 目录下的文件信息，**并附上 `sh -x /usr/share/wechatpush/wechatpush t1` 的详细运行信息** ）
 
 ## 下载
 
 * `openwrt-19.07.0 ... latest`: [![Lastest Release](https://img.shields.io/github/release/tty228/luci-app-wechatpush.svg?style=flat)](https://github.com/tty228/luci-app-wechatpush/releases)
-* `openwrt-18.06`: [release-v2.06.2](https://github.com/tty228/luci-app-serverchan/releases/tag/v2.06.2)
+* `openwrt-18.06`: [release-v2.06.2](https://github.com/tty228/luci-app-wechatpush/releases/tag/v2.06.2)
 
 ## 捐赠
 

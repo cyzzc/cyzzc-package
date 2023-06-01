@@ -501,7 +501,7 @@ return view.extend({
 
 		o = s.taboption('ipset', form.DynamicList, 'login_port_forward_list', _('Port Forwards'));
 		o.default = '';
-		o.description = _('Example: Forward port 13389 of this device (IPv4:10.0.0.1 / IPv6:fe80::10:0:0:2) to port 3389 of (IPv4:10.0.0.2 / IPv6:fe80::10:0:0:8)<br/>\'10.0.0.1,13389,10.0.0.2,3389\'<br/>\'fe80::10:0:0:1,13389,fe80::10:0:0:2,3389\'');
+		o.description = _('Example: Forward port 13389 of this device (IPv4:10.0.0.1 / IPv6:fe80::10:0:0:2) to port 3389 of (IPv4:10.0.0.2 / IPv6:fe80::10:0:0:8)<br/>\"10.0.0.1,13389,10.0.0.2,3389\"<br/>\"fe80::10:0:0:1,13389,fe80::10:0:0:2,3389\"');
 		o.depends('port_knocking_enable', '1');
 
 		o = s.taboption('ipset', form.Value, 'login_ip_white_timeout', _('Release time (s)'));

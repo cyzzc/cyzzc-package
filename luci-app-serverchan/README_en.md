@@ -1,4 +1,4 @@
-# 简介
+# Introduction
 
 [![Lastest Release](https://img.shields.io/github/release/tty228/luci-app-wechatpush.svg?style=flat)](https://github.com/tty228/luci-app-wechatpush/releases)
 [![GitHub All Releases](https://img.shields.io/github/downloads/tty228/luci-app-wechatpush/total)](https://github.com/tty228/luci-app-wechatpush/releases)
@@ -34,12 +34,12 @@
 
 ## PS
 
-- When submitting a bug, please provide device information, logs, descriptions such as the output and log information after executing `/usr/share/serverchan/serverchan`, and file information in the `/tmp/serverchan/` directory. Please also include detailed execution information of `sh -x /usr/share/serverchan/serverchan t1`.
+- When submitting a bug, please provide device information, logs, descriptions such as the output and log information after executing `/usr/share/wechatpush/wechatpush`, and file information in the `/tmp/wechatpush/` directory. Please also include detailed execution information of `sh -x /usr/share/wechatpush/wechatpush t1`.
 
 ## DownLoad
 
-* `openwrt-19.07.0 ... latest`: [release-v2.06.2](https://github.com/tty228/luci-app-serverchan/releases/tag/v2.06.2)
-* `openwrt-18.06`: [release-v2.06.2](https://github.com/tty228/luci-app-serverchan/releases/tag/v2.06.2)
+* `openwrt-19.07.0 ... latest`: [release-v2.06.2](https://github.com/tty228/luci-app-wechatpush/releases/tag/v2.06.2)
+* `openwrt-18.06`: [release-v2.06.2](https://github.com/tty228/luci-app-wechatpush/releases/tag/v2.06.2)
 
 ## Donate
 
